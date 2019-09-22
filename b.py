@@ -10,3 +10,5 @@ import re
 import random
 
 print('中北吴彦祖Pashazera')
+print('中北吴彦祖Pashazera')
+print('中北吴彦祖Pashazera')
