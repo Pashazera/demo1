@@ -9,19 +9,4 @@ from selenium.webdriver.support.wait import WebDriverWait
 import re
 import random
 
-line = 'pashazera'
-rex = '^p.*'
-if re.match(rex,line):
-    print('yes')
-
-def foo():
-    print("starting...")
-    while True:
-        res = yield random.randint(1,10)
-        res = 0
-        print("res:",res)
-g = foo()
-print(next(g))
-print("*"*20)
-print(next(g))
-print(next(g))
+print('中北吴彦祖')
