@@ -27,12 +27,11 @@ import random
 # print(next(g))
 # print(next(g))
 
-def print_rex(line, rex):
-
+def print_rex(line,rex):
     if re.match(rex, line):
-        print(line + '  正则表达式匹配结果为  yes')
+        print(line+'  正则表达式匹配结果为  yes')
     else:
-        print(line + '  正则表达式匹配结果为  no')
+        print(line+'  正则表达式匹配结果为  no')
 
 
 rex_name = '^[\\u4E00-\\u9FA5][\\u4E00-\\u9FA5|·]*[\\u4E00-\\u9FA5]$|(^$)'
