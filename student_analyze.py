@@ -7,3 +7,4 @@ print(data.values[:,1:])
 
 
 
+
