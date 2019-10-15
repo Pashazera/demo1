@@ -112,7 +112,7 @@ def test():
         pygame.display.update()
 
 
-test()
+
 
 
 

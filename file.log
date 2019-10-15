@@ -1,0 +1,12 @@
+2019-10-14 17:08:40.242 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 17:08:40.242 | INFO     | __main__:<module>:12 - 这是一条info日志
+2019-10-14 17:41:24.491 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 17:41:24.492 | INFO     | __main__:<module>:12 - 这是一条info日志
+2019-10-14 17:44:26.576 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 17:44:26.577 | INFO     | __main__:<module>:12 - 这是一条info日志
+2019-10-14 17:52:54.658 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 17:52:54.658 | INFO     | __main__:<module>:12 - 这是一条info日志
+2019-10-14 21:53:46.633 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 21:53:46.637 | INFO     | __main__:<module>:12 - 这是一条info日志
+2019-10-14 21:53:59.262 | DEBUG    | __main__:<module>:11 - 这是一条debug日志
+2019-10-14 21:53:59.262 | INFO     | __main__:<module>:12 - 这是一条info日志
